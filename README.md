@@ -1,22 +1,21 @@
-# Olá, Sou um desenvolvedor Full-Stacks! 👋
+# Olá, Sou um desenvolvedor Back-End! 👋
  
-Sou um desenvolvedor apaixonado pelo universo de tecnologia. Atualmente, estou trabalhando principalmente com Python (Flask) no backend, Typescript (React) no frontend e PostgreSQL como banco de dados, mas sigo explorando novas tecnologias.
+Sou um desenvolvedor apaixonado pelo universo de tecnologia. Atualmente, estou trabalhando principalmente com Python (Flask) no backend e PostgreSQL como banco de dados, mas sigo explorando novas tecnologias.
  
 ## 🔧 Tecnologias e Ferramentas
  
-- Javascript | HTML | CSS
-- Typescript (React)
-- Python (Flask | Django | RPA)
+- Python (Flask | Django)
+- Java (Spring Boot)
 - SQL (OracleSQL | Postgresql | MySQL)
  
 ## 🌱 Atualmente Aprendendo
  
-- React
-- Flask
+- Java
+- Django
 ## 📫 Como Entrar em Contato
  
-- LinkedIn: https://www.linkedin.com/in/lucasaguiarm/
-- Email: lucas.9526@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/mateus-miranda-alves/
+- Email: mateusalves748@gmail.com
  
 ## ⚡ Curiosidade Interessante
  
